@@ -1,0 +1,177 @@
+.header{
+    height: 80px;
+    display: flex;
+    align-items: center;
+    padding: 0 20%;
+    justify-content: space-between;
+}
+header a{
+    margin-right: 25px;
+    background-color: #F8FAFE;
+}
+.logo{
+    width: 62.79px;
+    height: 52px;
+    left: 295px;
+    top: 14px;
+}
+.links{
+    position: absolute;
+    width: 588px;
+    height: 22px;
+    font-family: 'Nunito Sans';
+    font-weight: 600;
+    font-size: 16px;
+    color: #18191F;
+    text-decoration: none;
+}
+#d{
+    background-color: #9B73BB;
+    position: absolute;
+    width: 1920px;
+    height: 250px;
+    color: white;
+}
+.start{
+    position: absolute;
+    width: 8px;
+    height: 8px; 
+    color: #803FB2;
+}
+.start1{
+    position: absolute;
+    width: 19.2px;
+    height: 24px;
+    color: black;
+}
+.social{
+    position: absolute;
+    width: 28px;
+    height: 28px;
+    color: white;
+}
+#images{
+    position: absolute;
+    width: 750px;
+    height: 500px;
+} 
+
+.trend{
+    position: absolute;
+    width: 94px;
+    height: 20px;
+    font-family: 'Poppins';
+    font-weight: 400;
+    font-size: 13px;
+}
+#text{
+    position: absolute;
+    width: 67px;
+    height: 18px;
+    font-family: 'Poppins';
+    font-weight: 600;
+    font-size: 14px;
+    color: #803FB2;
+}
+#name{
+    position: absolute;
+    width: 540px;
+    height: 123px;
+    font-family: 'IBM Plex Serif';
+    font-weight: 600;
+    font-size: 32px;
+    color: #A997CE;
+}
+#j{
+    position: absolute;
+    width: 540px;
+    height: 320px;
+}
+.author{
+    position: absolute;
+    width: 210px;
+    height: 20px;
+    font-family: 'Poppins';
+    font-weight: 400;
+    font-size: 13px;
+    color: #898989;
+}
+#52{
+    position: absolute;
+    width: 1366px;
+    height: 80px;
+    left: 277px;
+    top: 662px;
+}
+#beginning{
+    position: absolute;
+    width: 800px;
+    height: 109px;
+    font-family: 'IBM Plex Serif'; 
+    font-weight: 600;
+    font-size: 42px;
+    text-align: center;
+    color: white;
+    background-image: url(Rectangle 5.png);
+}
+.61{
+    position: absolute;
+    width: 438px;
+    height: 520px;
+}
+#70{
+    position: absolute;
+    width: 370px;
+    height: 216px;
+}
+.78{
+    position: absolute;
+    width: 220px;
+    height: 60px;
+    border: 1px solid #803FB2;
+    border-radius: 2px;
+}
+.79{
+     position: absolute;
+     width: 137px;
+     height: 15px;
+     font-family: 'Poppins';
+     font-weight: 500;
+     font-size: 14px;
+     display: flex;
+     align-items: center;
+     text-align: center;
+     color: #803FB2;
+}
+.82{
+    position: absolute;
+    width: 1366px;
+    height: 253px;
+}
+.parrots{
+    position: absolute;
+    width: 1050px;
+    height: 423px;
+}
+.b{
+    position: absolute;
+    width: 445px;
+    height: 326px;
+    font-family: 'Nunito Sans';
+    font-weight: 400;
+    font-size: 18px;
+}
+.blue{
+    position: absolute;
+    width: 445px;
+    height: 326px;
+    font-family: 'Nunito Sans';
+    font-weight: 400;
+    font-size: 18px;
+    color: #4DB4FF;
+}
+.animals{
+    position: absolute;
+    width: 255px;
+    height: 420px;
+}
